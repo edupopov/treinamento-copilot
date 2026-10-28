@@ -1,0 +1,182 @@
+BIBLIOTECA DE 16 PROMPTS — COPILOT NO POWERPOINT
+Professor Eduardo Popovici | Contoso Brasil | Material fictício e didático
+
+INSTRUÇÕES: abra o PowerPoint e o material indicado; se necessário, use o seletor de arquivos do Copilot para referenciar o documento Word. Confira resultados antes de aceitar edições.
+
+==============================================================================
+
+EXERCÍCIO 01 — CONHECER E RESUMIR UMA APRESENTAÇÃO
+ARQUIVO-BASE: Apresentação inicial
+OBJETIVO: Solicite uma síntese dos slides e a identificação dos temas centrais.
+
+Resuma a apresentação aberta em até 8 tópicos. Identifique objetivo, resultados, principais riscos e decisões efetivamente confirmadas. Para cada conclusão, informe o slide de origem. Não trate propostas como decisões aprovadas.
+
+VALIDAÇÃO:
+Compare a síntese com os slides 2, 4 e 7.
+
+------------------------------------------------------------------------------
+
+EXERCÍCIO 02 — CRIAR APRESENTAÇÃO A PARTIR DO WORD
+ARQUIVO-BASE: Relatório Word
+OBJETIVO: Gere rascunho a partir do documento de ações e desempenho.
+
+Crie uma apresentação executiva de 7 slides com base no arquivo CONTOSO_Relatorio_Acoes_Desempenho_Didatico.docx, que vou referenciar. Público: diretoria. Estruture: contexto, metas, resultados, orçamento, riscos, plano de ação e conclusão. Preserve números e sinalize divergências de fonte em vez de escolher um valor arbitrário.
+
+VALIDAÇÃO:
+Confronte cobertura 92% versus nota de 96% e status do orçamento.
+
+------------------------------------------------------------------------------
+
+EXERCÍCIO 03 — DEFINIR NARRATIVA E PÚBLICO
+ARQUIVO-BASE: Relatório Word + apresentação
+OBJETIVO: Reorganize o argumento para reunião de 5 minutos.
+
+Proponha uma narrativa de 5 minutos para a diretoria a partir deste material, com mensagem-chave por slide, 3 decisões solicitadas e transições. Evite jargões e não acrescente decisões que não constem no relatório.
+
+VALIDAÇÃO:
+A contratação de consultoria foi somente proposta.
+
+------------------------------------------------------------------------------
+
+EXERCÍCIO 04 — CRIAR SLIDE DE RESUMO EXECUTIVO
+ARQUIVO-BASE: Apresentação inicial
+OBJETIVO: Inserir um resumo executivo no começo.
+
+Adicione um slide de resumo executivo após a capa com quatro blocos: avanço operacional, situação orçamentária, principal risco e decisão necessária. Baseie-se apenas nos dados existentes e assinale o que exige validação.
+
+VALIDAÇÃO:
+Os quatro blocos precisam ter origem identificável.
+
+------------------------------------------------------------------------------
+
+EXERCÍCIO 05 — CONVERTER NÚMEROS EM MENSAGENS VISUAIS
+ARQUIVO-BASE: Apresentação inicial
+OBJETIVO: Refaça o slide de métricas com KPIs.
+
+Transforme o slide de indicadores em um painel executivo com 5 KPIs: cobertura de inventário, prazo médio, capacitados, orçamento realizado e taxa de reabertura. Mostre meta e realizado, com indicação correta de atingimento.
+
+VALIDAÇÃO:
+92% é inferior a 95%; 11% é maior que o limite de 8%.
+
+------------------------------------------------------------------------------
+
+EXERCÍCIO 06 — CRIAR GRÁFICO DE ORÇAMENTO
+ARQUIVO-BASE: Relatório Word
+OBJETIVO: Visualize despesas por frente.
+
+Crie um slide com gráfico de colunas agrupadas comparando orçado e realizado em Infraestrutura, Treinamento, Licenças e Consultoria. Use os valores da tabela do documento de referência. Mostre o desvio total e não conte a linha TOTAL como uma quinta categoria.
+
+VALIDAÇÃO:
+Totais: R$ 480.000 versus R$ 512.500; diferença R$ 32.500.
+
+------------------------------------------------------------------------------
+
+EXERCÍCIO 07 — CRIAR GRÁFICO DE EVOLUÇÃO MENSAL
+ARQUIVO-BASE: Relatório Word
+OBJETIVO: Evidencie evolução no atendimento.
+
+Crie um gráfico de linhas com o prazo médio de atendimento de julho a dezembro, usando apenas os valores da tabela de evolução mensal do documento. Adicione uma referência visual à meta de menos de 5 dias e não presuma causalidade.
+
+VALIDAÇÃO:
+De 7,2 para 4,8 dias; a meta é estritamente abaixo de 5.
+
+------------------------------------------------------------------------------
+
+EXERCÍCIO 08 — MELHORAR SLIDE SOBRECARREGADO
+ARQUIVO-BASE: Apresentação inicial
+OBJETIVO: Reduza excesso de texto sem perder fatos.
+
+Revise o slide de riscos e dependências. Substitua parágrafos longos por um título informativo e três riscos com impacto, evidência e ação de mitigação. Preserve as ressalvas e não invente responsáveis.
+
+VALIDAÇÃO:
+Compare cada afirmação com o relatório.
+
+------------------------------------------------------------------------------
+
+EXERCÍCIO 09 — REESCREVER PARA COMUNICAÇÃO EXECUTIVA
+ARQUIVO-BASE: Apresentação inicial
+OBJETIVO: Ajuste o texto e o tom.
+
+Reescreva os textos dos slides para um público executivo, usando frases curtas, verbos objetivos e números verificáveis. Limite a 35 palavras por slide, exceto tabelas e fontes. Não mude os valores nem o status das decisões.
+
+VALIDAÇÃO:
+A precisão deve prevalecer sobre a estética.
+
+------------------------------------------------------------------------------
+
+EXERCÍCIO 10 — GERAR NOTAS DO APRESENTADOR
+ARQUIVO-BASE: Apresentação inicial
+OBJETIVO: Desenvolva explicações de 45 segundos.
+
+Crie notas do apresentador para cada slide, com mensagem principal, explicação de números, ressalvas e uma transição para o próximo. Mire aproximadamente 45 segundos por slide; não invente evidências.
+
+VALIDAÇÃO:
+Notas devem explicar divergências quando aparecerem.
+
+------------------------------------------------------------------------------
+
+EXERCÍCIO 11 — CRIAR LINHA DO TEMPO DAS AÇÕES
+ARQUIVO-BASE: Relatório Word
+OBJETIVO: Organize entregas confirmadas e lacunas.
+
+Crie um slide de linha do tempo para as ações do relatório. Use apenas prazos explicitamente registrados; em atividades sem data, exiba “Prazo não definido”. Destaque a ação indicada como concluída sem evidência.
+
+VALIDAÇÃO:
+Dois prazos ausentes e uma conclusão sem evidência.
+
+------------------------------------------------------------------------------
+
+EXERCÍCIO 12 — CONSTRUIR MATRIZ DE RISCOS
+ARQUIVO-BASE: Relatório Word
+OBJETIVO: Sintetize os riscos corporativos.
+
+Crie um slide com matriz de riscos baseada na seção Riscos, bloqueios e dependências. Inclua risco, evidência, impacto e mitigação sugerida. Não atribua probabilidade numérica sem base factual.
+
+VALIDAÇÃO:
+Considere divergência de inventário, licenças e aceite.
+
+------------------------------------------------------------------------------
+
+EXERCÍCIO 13 — COMPARAR VERSÕES DO DISCURSO
+ARQUIVO-BASE: Apresentação inicial
+OBJETIVO: Produza versões para dois públicos.
+
+A partir desta apresentação, sugira duas versões de roteiro: uma para diretoria financeira, priorizando orçamento e retorno, e outra para equipe operacional, priorizando atendimento e execução. Liste o que permanece idêntico e o que muda na ênfase.
+
+VALIDAÇÃO:
+As métricas devem permanecer iguais.
+
+------------------------------------------------------------------------------
+
+EXERCÍCIO 14 — PREPARAR PERGUNTAS DIFÍCEIS DA DIRETORIA
+ARQUIVO-BASE: Relatório Word + apresentação
+OBJETIVO: Antecipe dúvidas críticas.
+
+Liste 10 perguntas difíceis que uma diretoria poderia fazer sobre orçamento, metas, qualidade dos dados e planos de ação. Escreva respostas apenas quando houver evidência; caso contrário, indique que dados adicionais seriam necessários.
+
+VALIDAÇÃO:
+Questões sobre 92% versus 96% devem explicitar divergência.
+
+------------------------------------------------------------------------------
+
+EXERCÍCIO 15 — AUDITAR A APRESENTAÇÃO
+ARQUIVO-BASE: Apresentação inicial
+OBJETIVO: Localize afirmações, números e conclusões frágeis.
+
+Audite esta apresentação usando o relatório de referência. Liste afirmações potencialmente incorretas, números incompatíveis, decisões apresentadas como aprovadas sem comprovação e gráficos sem fonte. Apresente slide, problema, evidência e correção proposta. Não edite antes da revisão.
+
+VALIDAÇÃO:
+Encontre a afirmação incorreta sobre 96% e a consultoria.
+
+------------------------------------------------------------------------------
+
+EXERCÍCIO 16 — DESAFIO FINAL: APRESENTAÇÃO PARA A DIRETORIA
+ARQUIVO-BASE: Relatório Word + apresentação
+OBJETIVO: Crie uma versão final de 6 a 8 slides e ensaie.
+
+Com base no relatório Word e nos slides de trabalho, prepare uma apresentação final de 6 a 8 slides para uma reunião de 5 minutos. Inclua objetivo, indicadores, orçamento, riscos, ações e decisões solicitadas. Use gráficos editáveis onde viável, notas de fala e uma seção de pontos a validar. Não apresente hipóteses como resultados confirmados.
+
+VALIDAÇÃO:
+Aprovação de consultoria não pode constar como decisão tomada.
+
+------------------------------------------------------------------------------
