@@ -1,0 +1,117 @@
+BIBLIOTECA DE PROMPTS — MICROSOFT 365 COPILOT NO OUTLOOK
+16 exercícios | Dados e nomes fictícios | Português (Brasil)
+
+IMPORTANTE: revise sempre fatos, destinatários e datas. Não envie mensagens ou agende reuniões sem confirmar.
+
+==========================================================================
+PROMPT 01 — RESUMIR UM E-MAIL EXTENSO
+CENÁRIO: Mensagem extensa
+OBJETIVO: Identificar assunto, fatos, solicitações e limites de prazo
+
+Resuma o e-mail selecionado em até 120 palavras, separando: contexto, fatos confirmados, solicitações, prazo e dúvidas. Não invente datas nem responsáveis. Cite trechos relevantes quando disponíveis.
+
+==========================================================================
+PROMPT 02 — RESUMIR UMA CONVERSA DE MÚLTIPLAS RESPOSTAS
+CENÁRIO: Thread de aprovação de compras
+OBJETIVO: Reconstruir decisões em uma conversa com versões conflitantes
+
+Analise esta conversa por ordem cronológica. Crie uma linha do tempo de mensagens relevantes, diferencie propostas de decisões confirmadas e liste pendências com responsável e prazo apenas quando explícitos. Aponte divergências entre mensagens.
+
+==========================================================================
+PROMPT 03 — PRIORIZAR A CAIXA DE ENTRADA
+CENÁRIO: Conjunto de mensagens com urgências diferentes
+OBJETIVO: Organizar o trabalho por impacto e prazo
+
+Considere as mensagens que posso acessar. Sugira uma classificação Alta, Média ou Baixa para cada e-mail relevante, com justificativa baseada em prazo, impacto e dependência. Entregue uma tabela com assunto, prioridade, ação sugerida e prazo explicitamente informado. Não marque, mova ou envie nada sem minha aprovação.
+
+==========================================================================
+PROMPT 04 — REDIGIR RESPOSTA OBJETIVA E PROFISSIONAL
+CENÁRIO: Solicitação de status à diretoria
+OBJETIVO: Responder com clareza sem inventar compromissos
+
+Escreva um rascunho de resposta profissional para esta mensagem. Agradeça o contato, reconheça a solicitação, informe somente os dados confirmados no histórico e apresente os próximos passos. Use até 140 palavras. Se faltar um prazo, peça confirmação em vez de inventá-lo.
+
+==========================================================================
+PROMPT 05 — ADAPTAR O TOM AO PÚBLICO
+CENÁRIO: Mesmo conteúdo, públicos diferentes
+OBJETIVO: Perceber adequação de comunicação
+
+A partir deste rascunho, produza três versões preservando os mesmos fatos: (A) resposta executiva à diretoria, até 80 palavras; (B) resposta colaborativa a um colega, até 120 palavras; (C) resposta técnica ao time de TI, com itens de ação. Mostre diferenças de tom sem alterar datas e números.
+
+==========================================================================
+PROMPT 06 — REVISAR TEXTO COM COACHING
+CENÁRIO: E-mail potencialmente ríspido
+OBJETIVO: Melhorar clareza e cordialidade
+
+Avalie meu rascunho considerando tom, clareza, concisão e risco de interpretação. Sugira cinco melhorias e reescreva em linguagem cordial e firme, sem perder a cobrança por retorno. Preserve fatos, prazos e valores informados.
+
+==========================================================================
+PROMPT 07 — IDENTIFICAR DECISÕES E PENDÊNCIAS
+CENÁRIO: Conversa sobre migração
+OBJETIVO: Separar acordo de hipótese
+
+Leia a conversa e apresente duas tabelas: Decisões confirmadas (decisão, quem confirmou, evidência) e Pendências (ação, responsável, prazo, informação ausente). Não classifique sugestões como decisões aprovadas.
+
+==========================================================================
+PROMPT 08 — PREPARAR UM FOLLOW-UP DE COBRANÇA
+CENÁRIO: Itens sem resposta
+OBJETIVO: Criar acompanhamento sem linguagem agressiva
+
+Com base na conversa, redija um follow-up educado listando somente pendências que permanecem abertas. Para cada item, cite o contexto e solicite a data de retorno quando não estiver definida. Assunto curto, corpo com até 180 palavras e nenhuma promessa não autorizada.
+
+==========================================================================
+PROMPT 09 — TRANSFORMAR CONVERSA EM PAUTA DE REUNIÃO
+CENÁRIO: Projeto com impasses
+OBJETIVO: Preparar reunião orientada à decisão
+
+A partir da conversa, proponha uma reunião de 25 minutos com objetivo, pauta cronometrada, participantes sugeridos por função, perguntas para decisão e materiais necessários. Identifique os participantes como sugestão quando não forem explicitamente designados.
+
+==========================================================================
+PROMPT 10 — PREPARAR CONVITE DE REUNIÃO
+CENÁRIO: Pauta aprovada
+OBJETIVO: Escrever um convite claro
+
+Crie um rascunho de convite de reunião de 25 minutos sobre as pendências desta conversa. Inclua título, objetivo, pauta, preparação prévia e resultado esperado. Não agende nem convide pessoas automaticamente; solicite minha revisão antes de qualquer ação.
+
+==========================================================================
+PROMPT 11 — RESUMIR ANEXOS E E-MAILS
+CENÁRIO: E-mail com relatório anexo
+OBJETIVO: Combinar texto e documento sem perder a origem
+
+Resuma separadamente o corpo deste e-mail e o anexo disponível. Depois mostre uma tabela com afirmação, origem (e-mail ou anexo), números citados e possíveis divergências. Se o anexo não estiver acessível, avise em vez de presumir o conteúdo.
+
+==========================================================================
+PROMPT 12 — CRIAR PLANO DIÁRIO DE RESPOSTA
+CENÁRIO: Caixa com solicitações concorrentes
+OBJETIVO: Planejar blocos de resposta
+
+Com base nas mensagens acessíveis e seus prazos explícitos, proponha uma ordem de tratamento para hoje, separando respostas rápidas, análise profunda e itens que dependem de terceiros. Inclua o motivo de cada prioridade e sinalize o que precisa de confirmação.
+
+==========================================================================
+PROMPT 13 — CRIAR REGRAS DE ORGANIZAÇÃO
+CENÁRIO: Alertas e newsletters
+OBJETIVO: Propor organização sem ocultar mensagens importantes
+
+Sugira regras de caixa de entrada para separar newsletters, alertas automáticos e mensagens de projetos, com condições, exceções e impacto. Evite mover automaticamente mensagens críticas, de segurança ou da diretoria. Explique como revisar e testar as regras antes de habilitá-las.
+
+==========================================================================
+PROMPT 14 — ELABORAR SÍNTESE EXECUTIVA MULTITHREAD
+CENÁRIO: Várias conversas do mesmo projeto
+OBJETIVO: Consolidar sem misturar versões
+
+Considere apenas as conversas do projeto Contoso que estiverem acessíveis. Produza uma síntese executiva com contexto, status, riscos, decisões confirmadas e ações abertas. Para cada afirmação relevante, indique a conversa de origem. Se não tiver acesso a alguma conversa, declare a limitação.
+
+==========================================================================
+PROMPT 15 — VERIFICAR PRECISÃO DE RESPOSTA GERADA
+CENÁRIO: Rascunho feito pelo Copilot
+OBJETIVO: Auditar alucinações e lacunas
+
+Audite o rascunho comparando cada número, nome, compromisso e prazo com o e-mail original. Liste afirmações comprovadas, não confirmadas e contraditórias. Sugira uma versão corrigida sem informações não verificadas.
+
+==========================================================================
+PROMPT 16 — DESAFIO INTEGRADO: DA CAIXA À AÇÃO
+CENÁRIO: Simulação completa
+OBJETIVO: Demonstrar economia de tempo com qualidade
+
+Revise a conversa selecionada e entregue: resumo em 100 palavras, decisões confirmadas, pendências em tabela, resposta ao remetente e pauta de uma reunião de 20 minutos. Marque tudo que depende de verificação e não envie nem agende nada automaticamente.
+
