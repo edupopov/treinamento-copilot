@@ -28,18 +28,42 @@ O conteúdo foi estruturado para ir além das demonstrações: aqui, cada ativid
 - **Organização e colaboração:** preparar reuniões, acompanhar decisões e transformar discussões em planos de ação.
 - **Análise de dados:** explorar planilhas, criar fórmulas e gráficos, construir tabelas dinâmicas e interpretar indicadores.
 - **Visão gerencial:** detectar tendências, avaliar cenários e elaborar dashboards para apoiar decisões.
+- **Produção documental:** revisar contratos fictícios, reescrever conteúdos e preparar relatórios executivos no Word.
+- **Comunicação visual:** transformar relatórios em apresentações, organizar narrativas e validar slides no PowerPoint.
 - **Uso responsável da IA:** verificar fontes, reconhecer limitações e proteger as informações utilizadas.
 
 ## Trilhas de aprendizagem
 
-| Trilha | Foco | Competências praticadas |
-|---|---|---|
-| **01 · Outlook** | Comunicação e produtividade | Resumos, redação, prioridades, organização de mensagens e follow-ups |
-| **02 · Teams** | Reuniões e colaboração | Preparação de pautas, sínteses, decisões, responsáveis e acompanhamento de ações |
-| **03 · Excel — Fundamentos** | Análise com linguagem natural | Fórmulas, orçamento, tendências, anomalias e relatórios |
-| **04 · Excel — Avançado** | Inteligência de negócios | Tabelas dinâmicas, gráficos, cenários, dashboards e auditoria dos resultados |
+O programa reúne **seis módulos de laboratório, em cinco aplicativos**, com **98 exercícios** distribuídos do nível introdutório ao avançado.
 
-**Observação:** a trilha de Teams integra o percurso de aprendizagem; consulte os materiais publicados neste repositório para verificar sua disponibilidade.
+| Trilha | Aplicativo | Foco | Exercícios |
+|---|---|---|---:|
+| **01 · Outlook** | Outlook | Resumos de e-mails, redação profissional, organização e follow-ups | 16 |
+| **02 · Teams** | Teams | Preparação de reuniões, atas, decisões, tarefas e acompanhamento | 16 |
+| **03 · Excel — Fundamentos** | Excel | Fórmulas, orçamento, tendências, desvios e relatórios | 14 |
+| **04 · Excel — Avançado** | Excel | Tabelas dinâmicas, gráficos, cenários, dashboards e auditoria | 20 |
+| **05 · Word** | Word | Leitura crítica, revisão contratual, relatórios e escrita executiva | 16 |
+| **06 · PowerPoint** | PowerPoint | Narrativa, síntese visual, gráficos, notas e apresentações executivas | 16 |
+| | | **Total** | **98** |
+
+### Acesse os laboratórios
+
+Os links abaixo consideram os arquivos na raiz do repositório. Caso você os organize em subpastas, ajuste os caminhos relativos.
+
+| Trilha | Guia prático | Biblioteca de prompts | Arquivos de apoio |
+|---|---|---|---|
+| Outlook | [Guia](GUIA_LABORATORIO_COPILOT_OUTLOOK.md) | [16 prompts](16_PROMPTS_M365_COPILOT_OUTLOOK.txt) | E-mails fictícios descritos no guia |
+| Teams | [Guia](GUIA_LABORATORIO_COPILOT_TEAMS.md) | [16 prompts](16_PROMPTS_M365_COPILOT_TEAMS.txt) | Roteiro de reunião e conversas simuladas no guia |
+| Excel — Fundamentos | [Guia](README_Laboratorio_M365_Copilot_Excel.md) | [14 prompts](14_Prompts_M365_Copilot_Excel_Contoso.txt) | [Planilha Contoso](Laboratorio_M365_Copilot_Excel_Contoso.xlsx) |
+| Excel — Avançado | [Guia](GUIA_AVANCADO_20_EXERCICIOS_M365_COPILOT_EXCEL.md) | [20 prompts](20_Prompts_Avancados_M365_Copilot_Excel.txt) | [Planilha Contoso](Laboratorio_M365_Copilot_Excel_Contoso.xlsx) |
+| Word | [Guia](GUIA_LABORATORIO_COPILOT_WORD.md) | [16 prompts](16_PROMPTS_M365_COPILOT_WORD.txt) | [Contrato](CONTOSO_Contrato_Compra_Venda_Didatico.docx) · [Relatório de ações](CONTOSO_Relatorio_Acoes_Desempenho_Didatico.docx) |
+| PowerPoint | [Guia](GUIA_LABORATORIO_COPILOT_POWERPOINT.md) | [16 prompts](16_PROMPTS_M365_COPILOT_POWERPOINT.txt) | [Apresentação inicial](CONTOSO_Apresentacao_Inicial_Copilot_PowerPoint.pptx) · [Relatório Word](CONTOSO_Relatorio_Acoes_Desempenho_Didatico.docx) |
+
+> **Para instrutores:** o arquivo [Gabarito do Excel Avançado](GABARITO_Avancado_20_Exercicios.txt) contém pistas e respostas de referência. Recomenda-se mantê-lo em área restrita, fora da pasta pública destinada aos alunos.
+
+### Caso integrado: Contoso Brasil
+
+Parte das atividades utiliza uma empresa fictícia chamada **Contoso Brasil**. Ao longo dos laboratórios, os participantes podem analisar mensagens e reuniões, investigar dados financeiros, revisar documentos e transformar conclusões em uma apresentação para a diretoria. Essa continuidade permite perceber como o Copilot apoia o trabalho **de ponta a ponta**, entre diferentes aplicativos.
 
 ## Como utilizar este repositório
 
@@ -60,6 +84,8 @@ Este repositório pode incluir:
 - Guias em **Markdown (`.md`)**, com roteiros detalhados de exercícios;
 - Bibliotecas de **prompts (`.txt`)**, para copiar, testar e adaptar;
 - Planilhas **Excel (`.xlsx`)**, com dados fictícios para análise;
+- Documentos **Word (`.docx`)**, incluindo contrato didático e relatório de ações;
+- Apresentação **PowerPoint (`.pptx`)** com slides editáveis para aprimoramento;
 - Desafios complementares para aprofundamento.
 
 **Dica:** utilize os exercícios como laboratórios de experimentação. Teste diferentes abordagens para o mesmo problema e observe como a qualidade do contexto e da instrução influencia a resposta.
@@ -74,7 +100,7 @@ O Copilot é um recurso de apoio ao trabalho, não um substituto da análise pro
 - Revise mensagens e documentos antes de compartilhar;
 - Considere que funcionalidades variam conforme licenças, versões dos aplicativos e configurações administrativas.
 
-Os cenários e dados usados nos exercícios são **fictícios e destinados exclusivamente a fins educacionais**.
+Os cenários e dados usados nos exercícios são **fictícios e destinados exclusivamente a fins educacionais**. O contrato de compra e venda é um instrumento didático e não substitui orientação jurídica. Em apresentações, valide gráficos, números e afirmações antes de divulgar os slides.
 
 ## Uma mensagem do professor
 
