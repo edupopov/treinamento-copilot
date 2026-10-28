@@ -1,0 +1,150 @@
+BIBLIOTECA DE 16 PROMPTS — MICROSOFT 365 COPILOT NO TEAMS
+Professor Eduardo Popovici | Trilha 1 — Reuniões e Colaboração
+
+Use no chat, canal ou reunião indicado. Confirme acesso, políticas e transcrição. Nunca execute publicações ou ações sem revisão.
+
+==============================================================================
+EXERCÍCIO 01 — PREPARAR UMA REUNIÃO A PARTIR DO CONTEXTO
+LOCAL: Chat do projeto ou chat da reunião
+OBJETIVO: Criar pauta objetiva a partir de mensagens prévias.
+------------------------------------------------------------------------------
+Com base somente nas mensagens deste chat, prepare uma pauta de 25 minutos para uma reunião sobre a implantação do Portal Contoso. Inclua objetivo, 4 tópicos priorizados, tempo por tópico, perguntas em aberto e materiais necessários. Separe fatos de suposições; não invente responsáveis nem compromissos.
+
+VERIFICAÇÃO: A pauta apresenta como aprovada alguma data que era apenas proposta?
+
+==============================================================================
+EXERCÍCIO 02 — RECUPERAR CONTEXTO DE UM CHAT LONGO
+LOCAL: Chat de grupo
+OBJETIVO: Encontrar rapidamente progresso, bloqueios e prazos.
+------------------------------------------------------------------------------
+Resuma este chat em até 180 palavras. Organize em: progresso confirmado, problemas em aberto, decisões efetivas, responsáveis explicitamente mencionados e próximos prazos. Aponte mensagens contraditórias e cite os trechos de origem quando disponíveis.
+
+VERIFICAÇÃO: Quais afirmações não possuem suporte nas mensagens?
+
+==============================================================================
+EXERCÍCIO 03 — EXTRAIR TAREFAS DE MENSAGENS
+LOCAL: Chat de grupo
+OBJETIVO: Converter conversa informal em quadro de pendências.
+------------------------------------------------------------------------------
+Extraia somente tarefas explicitamente solicitadas neste chat. Crie uma tabela com ação, responsável, prazo, status e evidência. Se responsável ou prazo não estiver definido, escreva NÃO DEFINIDO. Não inclua sugestões como tarefas aprovadas.
+
+VERIFICAÇÃO: O Copilot atribuiu alguém que apenas participou da conversa?
+
+==============================================================================
+EXERCÍCIO 04 — CRIAR COMUNICAÇÃO PARA UM CANAL
+LOCAL: Canal de treinamento
+OBJETIVO: Produzir comunicado profissional sem publicar automaticamente.
+------------------------------------------------------------------------------
+Redija um anúncio para o canal da equipe sobre a reunião de alinhamento do Portal Contoso. Explique objetivo, preparação solicitada e como registrar bloqueios. Tom corporativo e acolhedor, máximo 120 palavras. Não declare datas, horários ou links inexistentes. Entregue como RASCUNHO para revisão.
+
+VERIFICAÇÃO: Há promessas ou datas não verificadas?
+
+==============================================================================
+EXERCÍCIO 05 — COMPARAR OPINIÕES E DIVERGÊNCIAS
+LOCAL: Chat de projeto
+OBJETIVO: Identificar desacordos e consensos sem distorção.
+------------------------------------------------------------------------------
+Identifique onde os participantes concordam e discordam sobre a expansão do Portal Contoso. Construa uma tabela: tema, posição A, posição B, evidências e informação adicional necessária. Não apresente divergência como decisão.
+
+VERIFICAÇÃO: O resumo reduziu nuances importantes?
+
+==============================================================================
+EXERCÍCIO 06 — CONFIGURAR UMA REUNIÃO PARA USAR COPILOT
+LOCAL: Opções da reunião Teams
+OBJETIVO: Verificar condições técnicas e governança.
+------------------------------------------------------------------------------
+Elabore um checklist de preparação para esta reunião: agenda, objetivo, participantes, habilitação de Copilot e transcrição, consentimento, classificação da informação, riscos de privacidade e plano alternativo se o recurso não estiver disponível. Não afirme ter alterado configurações.
+
+VERIFICAÇÃO: A opção Durante e após requer transcrição?
+
+==============================================================================
+EXERCÍCIO 07 — RECAPITULAR REUNIÃO EM ANDAMENTO
+LOCAL: Reunião ao vivo
+OBJETIVO: Fazer catch-up sem interromper a discussão.
+------------------------------------------------------------------------------
+Até este momento da reunião, resuma o objetivo, os três pontos principais discutidos, o que já foi decidido e quais perguntas ainda precisam ser respondidas. Cite falas ou momentos quando disponíveis. Não trate discussão como aprovação.
+
+VERIFICAÇÃO: Algum ponto foi confundido com decisão?
+
+==============================================================================
+EXERCÍCIO 08 — IDENTIFICAR DECISÕES TOMADAS
+LOCAL: Reunião e transcrição
+OBJETIVO: Separar decisões finais de propostas condicionais.
+------------------------------------------------------------------------------
+Liste apenas decisões efetivamente confirmadas nesta reunião. Para cada uma, mostre decisão, justificativa apresentada, quem confirmou e evidência. Separe propostas, hipóteses e aprovações condicionais em uma segunda seção. Se não houver decisão, informe explicitamente.
+
+VERIFICAÇÃO: A expansão total foi aprovada?
+
+==============================================================================
+EXERCÍCIO 09 — PRODUZIR ATA EXECUTIVA
+LOCAL: Recapitulação de reunião
+OBJETIVO: Montar ata curta, confiável e auditável.
+------------------------------------------------------------------------------
+Gere uma MINUTA de ata da reunião Contoso com: objetivo, participantes apenas se confirmados, temas, decisões confirmadas, propostas não aprovadas, riscos e ações. Termine com uma tabela: ação, responsável, prazo, dependência e evidência. Use NÃO DEFINIDO quando necessário.
+
+VERIFICAÇÃO: O texto diferencia status de proposta e aprovação?
+
+==============================================================================
+EXERCÍCIO 10 — GERAR FOLLOW-UP PÓS-REUNIÃO
+LOCAL: Chat da reunião
+OBJETIVO: Criar mensagem de acompanhamento com responsáveis.
+------------------------------------------------------------------------------
+A partir das decisões e ações confirmadas nesta reunião, produza um RASCUNHO de follow-up para os participantes em tom profissional. Liste decisões, pendências, responsáveis, prazos e itens que precisam de validação. Não atribua prazos novos nem anuncie publicação ou envio.
+
+VERIFICAÇÃO: Os prazos são confirmados ou sugeridos?
+
+==============================================================================
+EXERCÍCIO 11 — DETECTAR RISCOS E BLOQUEIOS
+LOCAL: Reunião e chat
+OBJETIVO: Construir quadro de riscos baseado em evidências.
+------------------------------------------------------------------------------
+Identifique riscos e bloqueios discutidos nesta reunião. Retorne tabela: risco, impacto possível, evidência, mitigação mencionada, responsável confirmado e próximo passo. Classifique prioridade como sugestão, não como decisão formal. Não crie fatos não discutidos.
+
+VERIFICAÇÃO: Qual é o bloqueio de segurança?
+
+==============================================================================
+EXERCÍCIO 12 — AVALIAR ENCAMINHAMENTOS SEM RESPONSÁVEL
+LOCAL: Ata ou transcrição
+OBJETIVO: Detectar tarefas órfãs e dúvidas de execução.
+------------------------------------------------------------------------------
+Revise os itens de ação e liste quais não possuem responsável, prazo ou critério de aceite confirmado. Proponha perguntas objetivas para encerrar essas lacunas, sem preencher os campos por conta própria.
+
+VERIFICAÇÃO: Copilot completou lacunas indevidamente?
+
+==============================================================================
+EXERCÍCIO 13 — COMPARAR REUNIÕES RECORRENTES
+LOCAL: Duas reuniões transcritas acessíveis
+OBJETIVO: Medir evolução entre encontros.
+------------------------------------------------------------------------------
+Compare as reuniões de acompanhamento do Portal Contoso às quais tenho acesso. Apresente avanços, pendências encerradas, itens ainda abertos, decisões alteradas e próximos marcos. Cite de qual reunião veio cada informação. Se faltar acesso a alguma reunião, informe a limitação em vez de supor.
+
+VERIFICAÇÃO: Um item foi declarado concluído sem evidência?
+
+==============================================================================
+EXERCÍCIO 14 — PREPARAR APRESENTAÇÃO DE STATUS
+LOCAL: Chat e reunião
+OBJETIVO: Criar síntese para liderança.
+------------------------------------------------------------------------------
+Elabore um briefing executivo de até 150 palavras para a diretoria sobre o Portal Contoso: situação atual, duas entregas, dois riscos, decisões efetivas e próximos passos. Inclua observações sobre informações não confirmadas. Linguagem objetiva, sem jargões desnecessários.
+
+VERIFICAÇÃO: O texto chama piloto de produção?
+
+==============================================================================
+EXERCÍCIO 15 — AUDITAR A RESPOSTA DO COPILOT
+LOCAL: Chat, ata e transcrição
+OBJETIVO: Exercitar pensamento crítico e conferência.
+------------------------------------------------------------------------------
+Audite o resumo produzido anteriormente. Construa tabela com afirmação, evidência na conversa ou transcrição, nível de confiança, risco de interpretação incorreta e correção recomendada. Priorize datas, números, aprovações, responsáveis e prazos. Não declare como verificado o que não pode comprovar.
+
+VERIFICAÇÃO: Quais elementos permanecem incertos?
+
+==============================================================================
+EXERCÍCIO 16 — DESAFIO INTEGRADO — REUNIÃO ORIENTADA A RESULTADOS
+LOCAL: Chat + reunião + recapitulação
+OBJETIVO: Consolidar preparação, discussão, atas e follow-up.
+------------------------------------------------------------------------------
+Atue como assistente de reunião para o projeto Contoso usando apenas chat e transcrição disponíveis. Entregue: (1) resumo executivo de até 120 palavras; (2) decisões efetivas; (3) propostas pendentes; (4) tabela de ações com responsável, prazo e evidência; (5) três perguntas para o próximo encontro; (6) rascunho de follow-up. Sinalize qualquer dado não encontrado. Não publique nem atribua ações automaticamente.
+
+VERIFICAÇÃO: Compare com o roteiro de referência e identifique divergências.
+
+FIM DO MATERIAL | Professor Eduardo Popovici

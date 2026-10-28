@@ -1,0 +1,85 @@
+LABORATÓRIO MICROSOFT 365 COPILOT NO WORD
+PROFESSOR EDUARDO POPOVICI
+16 PROMPTS — CONTRATO E RELATÓRIO DE AÇÕES
+Material fictício. Valide números e referências.
+========================================================================
+
+EXERCÍCIO 01 — RESUMO EXECUTIVO DO CONTRATO
+DOCUMENTO: Contrato
+Resuma objeto, partes, prazo, valor, entregas e condições de pagamento em até 200 palavras; cite as cláusulas e não presuma conteúdo ausente.
+------------------------------------------------------------------------
+
+EXERCÍCIO 02 — CONFERÊNCIA DOS VALORES
+DOCUMENTO: Contrato
+Recalcule os subtotais, a soma dos itens e das parcelas de pagamento. Apresente tabela com valor declarado, calculado, diferença e localização. Não altere automaticamente o texto.
+------------------------------------------------------------------------
+
+EXERCÍCIO 03 — MATRIZ DE OBRIGAÇÕES
+DOCUMENTO: Contrato
+Transforme as cláusulas em matriz com obrigação, parte responsável, prazo, condição e cláusula de origem; marque indefinições.
+------------------------------------------------------------------------
+
+EXERCÍCIO 04 — RISCOS E AMBIGUIDADES
+DOCUMENTO: Contrato
+Identifique cláusulas que merecem revisão jurídica ou negocial: aceite tácito, risco no transporte, multas, rescisão, suporte e divergências de prazo. Classifique por severidade com justificativa e referência textual. Não declare nulidade sem base.
+------------------------------------------------------------------------
+
+EXERCÍCIO 05 — REESCRITA DE CLÁUSULA
+DOCUMENTO: Contrato
+Proponha redação alternativa para a cláusula de garantia e suporte com prazos de atendimento e solução como campos a negociar. Preserve o restante do contrato e destaque hipóteses.
+------------------------------------------------------------------------
+
+EXERCÍCIO 06 — COMPARAÇÃO DE CLÁUSULAS
+DOCUMENTO: Contrato
+Compare as cláusulas 7 e 8 sobre atraso, cura e rescisão. Mostre potenciais conflitos e sugira perguntas ao jurídico antes da aprovação.
+------------------------------------------------------------------------
+
+EXERCÍCIO 07 — TABELA DE PAGAMENTOS
+DOCUMENTO: Contrato
+Crie um quadro de pagamento com evento gatilho, percentual, valor matematicamente correto, valor atualmente redigido, evidência exigida e status de conferência.
+------------------------------------------------------------------------
+
+EXERCÍCIO 08 — CHECKLIST DE ASSINATURA
+DOCUMENTO: Contrato
+Gere checklist pré-assinatura: dados das partes, itens, preço, impostos, frete, datas, garantias, penalidades, aceite, assinaturas e anexos. Indique o que não está comprovado.
+------------------------------------------------------------------------
+
+EXERCÍCIO 09 — RESUMO DE DIRETORIA
+DOCUMENTO: Relatório
+Crie resumo executivo de uma página com desempenho, metas, desvios, riscos, decisões efetivas e prioridades, sem confundir propostas com aprovações.
+------------------------------------------------------------------------
+
+EXERCÍCIO 10 — CONFERÊNCIA DOS INDICADORES
+DOCUMENTO: Relatório
+Verifique as metas e os resultados reportados, calcule diferenças e explique quando menor é melhor. Sinalize inconsistências e métricas sem evidência.
+------------------------------------------------------------------------
+
+EXERCÍCIO 11 — AUDITORIA FINANCEIRA
+DOCUMENTO: Relatório
+Recalcule o total orçado e realizado por frente, o desvio absoluto e percentual e identifique as frentes que contribuíram mais para o estouro.
+------------------------------------------------------------------------
+
+EXERCÍCIO 12 — EVOLUÇÃO OPERACIONAL
+DOCUMENTO: Relatório
+Analise julho a dezembro: volumes, prazo médio e taxas de reabertura. Descreva tendência, variações e limitações sem atribuir causalidade indevida.
+------------------------------------------------------------------------
+
+EXERCÍCIO 13 — PLANO DE AÇÃO ESTRUTURADO
+DOCUMENTO: Relatório
+Converta a seção de ações em uma tabela com ID, entrega, responsável, prazo, status, evidência e próxima ação. Não invente prazos e destaque lacunas.
+------------------------------------------------------------------------
+
+EXERCÍCIO 14 — ANÁLISE DE RISCOS
+DOCUMENTO: Relatório
+Elabore matriz probabilidade x impacto para riscos R1-R5, explicitando que classificações são hipóteses para validação. Sugira mitigação, dono e gatilho.
+------------------------------------------------------------------------
+
+EXERCÍCIO 15 — REESCRITA PROFISSIONAL
+DOCUMENTO: Relatório
+Reescreva as recomendações para tom corporativo objetivo, diferenciando resultados, riscos, sugestões e decisões aprovadas. Limite a 250 palavras.
+------------------------------------------------------------------------
+
+EXERCÍCIO 16 — BRIEFING INTEGRADO PARA DIRETORIA
+DOCUMENTO: Ambos
+Compare compromissos de aquisição de equipamentos com as necessidades do Projeto Integra. Aponte o que pode ser relacionado e o que não pode ser concluído, citando cada documento. Produza briefing com perguntas de decisão.
+------------------------------------------------------------------------
