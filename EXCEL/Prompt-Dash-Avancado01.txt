@@ -1,0 +1,68 @@
+Crie uma nova planilha chamada "Dashboard Executivo".
+
+Analise os dados de despesas e construa um dashboard moderno, visualmente atrativo e executivo, utilizando uma paleta de cores em tons de azul e verde.
+
+Estrutura do dashboard:
+
+1. Cabeçalho
+   - Título: "Dashboard de Despesas 2025"
+   - Subtítulo com resumo automático dos principais insights.
+
+2. Indicadores (Cards KPI)
+   - Total de Despesas do Ano
+   - Média Mensal
+   - Maior Valor Mensal
+   - Menor Valor Mensal
+   - Variação Acumulada (%)
+   - Quantidade de Meses com Crescimento
+
+   Utilizar cartões com design moderno, ícones e destaque visual.
+
+3. Gráficos Principais
+   - Gráfico de Linha mostrando a evolução das despesas mensais.
+   - Destacar automaticamente os três maiores aumentos mensais.
+   - Adicionar linha de tendência.
+   - Exibir rótulos apenas nos pontos de maior relevância.
+
+4. Gráfico Pizza (Rosca Moderna)
+   - Participação percentual de cada mês no total anual.
+   - Utilizar gradiente azul e verde.
+   - Exibir percentuais e valores.
+
+5. Gráfico de Cascata (Waterfall)
+   - Demonstrar o impacto das variações mês a mês.
+   - Destacar aumentos em verde e reduções em azul escuro.
+
+6. Gráfico de Barras Horizontais
+   - Ranking dos meses com maiores despesas.
+   - Classificação do maior para o menor valor.
+
+7. Insights Automáticos
+   - Criar uma área com comentários automáticos:
+     • Tendência geral do ano.
+     • Três maiores aumentos.
+     • Maiores reduções.
+     • Meses que exigem investigação.
+
+8. Formatação Visual
+   - Tema corporativo moderno.
+   - Fundo branco.
+   - Azul (#005A9C) para indicadores positivos.
+   - Verde (#00B050) para destaque de crescimento.
+   - Cinza claro para áreas secundárias.
+   - Remover linhas de grade.
+   - Aplicar sombras suaves nos cartões KPI.
+   - Utilizar visual semelhante a dashboards de Power BI.
+
+9. Interatividade
+   - Adicionar segmentações de dados (Slicers) quando possível.
+   - Permitir filtragem por mês e categoria.
+   - Atualização automática dos gráficos quando os dados forem alterados.
+
+10. Organização
+   - Posicionar KPIs na parte superior.
+   - Gráfico de linha ocupando a área central.
+   - Pizza e ranking lado a lado.
+   - Insights na lateral direita.
+
+Crie o dashboard diretamente na nova planilha e ajuste automaticamente tamanhos, alinhamentos e espaçamentos para apresentação executiva.
