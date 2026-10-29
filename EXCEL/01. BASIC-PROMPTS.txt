@@ -1,0 +1,15 @@
+Analise a aba Financeiro desta planilha. Explique quais informações estão disponíveis, o significado das principais colunas e quais indicadores financeiros podem ser calculados. Apresente o resultado em linguagem simples, como se estivesse explicando para um gestor que não conhece o arquivo.
+
+Explique a fórmula da célula selecionada. Descreva o que ela calcula, quais células ou colunas utiliza e apresente um exemplo numérico. Identifique possíveis erros, como referências incorretas e divisão por zero.
+
+“Crie duas colunas: uma calculando a diferença em reais entre o realizado e o orçado e outra calculando a variação percentual. Explique as fórmulas e formate os resultados.”
+
+“Analise a evolução das despesas nos últimos 12 meses, identifique tendências e os três maiores aumentos mensais. Gere um gráfico de linhas e destaque os períodos que precisam de investigação.”
+
+“Projete o fluxo de caixa para os próximos três meses, criando cenários base, otimista e conservador. Considere variações de 10% nas receitas e 5% nas despesas. Explique as premissas e apresente um gráfico comparativo.”
+
+“Analise os registros de fornecedores e identifique possíveis duplicidades, pagamentos atípicos, contratos vencidos e inconsistências. Apresente uma tabela de alertas com as evidências encontradas.”
+
+“Crie um dashboard executivo utilizando os dados financeiros, orçamento e ativos. Inclua indicadores de receitas, despesas, saldo de caixa, desvios orçamentários e gráficos de evolução. Acrescente um resumo com os cinco principais achados.”
+
+“Identifique ativos com mais de cinco anos, equipamentos fora da garantia e departamentos com maior necessidade de renovação. Crie uma tabela de prioridades e estime o orçamento necessário.”
